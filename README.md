@@ -1,19 +1,19 @@
 # RuneHero
 
-A Guitar Hero-style rhythm minigame played on your Old School RuneScape inventory tabs.
+A Guitar Hero-style rhythm minigame played within your game client.
 
 Install from the RuneLite Plugin Hub, then enable **RuneHero**.
 
 ## How it works
 
 Notes — drawn as the five Catalytic runes (Law, Death, Blood, Soul, Wrath) — fall toward five
-lanes: Combat, Inventory, Equipment, Prayer, Magic. When a note reaches the hit line, **tap that
+lanes: Law, Death, Blood, Soul, Wrath. When a note reaches the hit line, **tap that
 lane's key** (or, if you turn on *Require strum*, hold the lane key and press strum). Hits flash
 green/gold, misses flash red, and your combo glows hotter the longer your streak runs.
 
 Charts are generated automatically from the in-game music track playing when you press start.
 The melody is reduced to a single playable line (you can only be in one lane at a time, so no
-chords). **Smart** mode auto-picks the 1–3 instruments that best carry the tune; or set **Channel
+chords.. For now). **Smart** mode auto-picks the 1–3 instruments that best carry the tune; or set **Channel
 A/B/C** by hand — press the **Analyze** key (default F11) to see each channel's instrument so you
 can pick the melody yourself.
 
